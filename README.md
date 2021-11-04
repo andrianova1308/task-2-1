@@ -8,3 +8,8 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+```CSS
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}```
